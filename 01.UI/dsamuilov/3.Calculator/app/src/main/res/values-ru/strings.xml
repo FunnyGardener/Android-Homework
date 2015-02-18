@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="divideButton">Разделить</string>
+    <string name="multiplyButton">Умножить</string>
+    <string name="resultButton">Вычислить</string>
+    <string name="subtractionButton">Отнять</string>
+    <string name="sumButton">Сложить</string>
+    <string name="numberOne">Первое число</string>
+    <string name="numberTwo">Второе число</string>
+    <string name="resultText">Результат</string>
+</resources>
