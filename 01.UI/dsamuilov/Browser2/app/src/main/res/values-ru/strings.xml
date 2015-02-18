@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="historyButton">история</string>
+    <string name="urlText">Url адрес</string>
+    <string name="goButton">Вперед</string>
+</resources>
