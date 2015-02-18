@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LinkViewer</string>
+    <string name="urlText">Url address</string>
+    <string name="goButton">Go</string>
+</resources>
