@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="historyButton">history</string>
+    <string name="urlText">Url address</string>
+    <string name="goButton">Go</string>
+    <string name="backButton">&lt;</string>
+    <string name="forwardButton">></string>
+</resources>
